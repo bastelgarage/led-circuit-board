@@ -4,7 +4,7 @@ The circuit board features a ESP8266 microcontroller and supports the direct att
 
 ![Picture of the LED circuit board](./assets/img/led-circuit-board.jpg)
 
-## Where can I get one
+## Where can I get one?
 
 The circuit board is sold at [https://www.bastelgarage.ch/bausatze/esp8266-wled-platine-d75](https://www.bastelgarage.ch/bausatze/esp8266-wled-platine-d75)
 
