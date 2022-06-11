@@ -68,8 +68,4 @@ Follow the wizard to get your device ready.
 
 If you are using the sample from above it would like this:
 
-![Overview Home Assistant](./assets/img/home-assistant1.png)
-
-
-
-
+![Overview Home Assistant](./assets/img/home-assistant2.png)
