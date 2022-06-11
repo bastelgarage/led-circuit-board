@@ -62,13 +62,13 @@ light:
 
 After rebooting the device you will get a notification from Home Assistant that a new device was found.
 
-![Discovered device in Home Assistant](./assets/images/home-assistant1.png)
+![Discovered device in Home Assistant](./assets/img/home-assistant1.png)
 
 Follow the wizard to get your device ready.
 
 If you are using the sample from above it would like this:
 
-![Overview Home Assistant](./assets/images/home-assistant1.png)
+![Overview Home Assistant](./assets/img/home-assistant1.png)
 
 
 
