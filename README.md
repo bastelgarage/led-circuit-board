@@ -14,6 +14,13 @@ Support is available for:
 - Shop: will be available soon
 - Product No.: 422330
 
+## Details:
+
+- Button 1: GPIO0
+- IR: GPIO4
+- PIR: (GPIO4, setzt das Entfernen des PIR voraus)
+- LED: GPIO2
+
 ----
 
 # LED-Steuerplatine
@@ -31,3 +38,10 @@ Untersützt wird:
 
 - Shop: wird in Kürze verfügbar sein
 - Artikel-Nummer: 422330
+
+## Details
+
+- Button 1: GPIO0
+- IR: GPIO4
+- PIR: (GPIO4, setzt das Entfernen des PIR voraus)
+- LED: GPIO2
