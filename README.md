@@ -11,12 +11,13 @@ Support is available for:
 
 ## Where to buy?
 
-- Shop: will be available soon
+- Shop: https://www.bastelgarage.ch/bausatze/esp8266-wled-platine-d75
 - Product No.: 422330
 
 ## Details
 
 - Button 1: GPIO0
+- Button 2: GPIO5
 - IR: GPIO4
 - PIR: (GPIO4, requires that the IR element is removed)
 - LED: GPIO2
@@ -29,19 +30,20 @@ Die Steuerplatine ist um einen ESP8266-Mikrocontroller aufgebaut und ist ausgele
 
 Untersützt wird:
 
-- WLED (voraussichtlicher Auslieferungzustand)
+- WLED (Auslieferungzustand)
 - ESPhome
 - Micropython
 - Arduino
 
 ## Wo kaufen?
 
-- Shop: wird in Kürze verfügbar sein
+- Shop: https://www.bastelgarage.ch/bausatze/esp8266-wled-platine-d75
 - Artikel-Nummer: 422330
 
 ## Details
 
 - Button 1: GPIO0
+- Button 2: GPIO5
 - IR: GPIO4
 - PIR: (GPIO4, setzt das mechanische Entfernen des IR-Bauteil voraus)
 - LED: GPIO2
