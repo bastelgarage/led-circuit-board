@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## LED circuit board
 
-You can use the [editor on GitHub](https://github.com/bastelgarage/led-circuit-board/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+The circuit board features a ESP8266 microcontroller and supports the direct attachment of a LED strip. The form factor of the board and the four mounting holes allows easy placment in the buttom of a lamp, building the lamp around the board or for hanging application. There are two buttons, support for IR communication and a parrel plug (5 mm) for a 5V PSU. Additionally is the board preparred for a PIR sensor. For programming the ESP8266 you need a standard serial adapter (e.g., [Mini USB UART FTDI Programmer 3.3/5V USB Serial ](https://www.bastelgarage.ch/mini-usb-uart-ftdi-programmer-3-3-5v-usb-serial)).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bastelgarage/led-circuit-board/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
