@@ -4,10 +4,18 @@ The circuit board features a ESP8266 microcontroller and supports the direct att
 
 ![Picture of the LED circuit board](./assets/img/led-circuit-board.jpg)
 
-### Details
+## Details
 
 - Button 1: GPIO0
 - Button 2: GPIO5
 - IR: GPIO4
 - PIR: (GPIO4, requires that the IR is physically removed)
 - LED: GPIO2
+
+## Where can I get one
+
+The circuit board is sold at https://www.bastelgarage.ch/bausatze/esp8266-wled-platine-d75
+
+## Support
+
+Please create a new [issue](https://github.com/bastelgarage/led-circuit-board/issues) or visit the [forum](https://forum.bastelgarage.ch/).
