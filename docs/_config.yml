@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: ESP8266-based circuit board
+logo:
+description: Documentation for the ESP8266-based circuit board to control LED strips
