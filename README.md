@@ -14,11 +14,11 @@ Support is available for:
 - Shop: will be available soon
 - Product No.: 422330
 
-## Details:
+## Details
 
 - Button 1: GPIO0
 - IR: GPIO4
-- PIR: (GPIO4, setzt das Entfernen des PIR voraus)
+- PIR: (GPIO4, requires that the IR element is removed)
 - LED: GPIO2
 
 ----
@@ -43,5 +43,5 @@ Untersützt wird:
 
 - Button 1: GPIO0
 - IR: GPIO4
-- PIR: (GPIO4, setzt das Entfernen des PIR voraus)
+- PIR: (GPIO4, setzt das mechanische Entfernen des IR-Bauteil voraus)
 - LED: GPIO2
