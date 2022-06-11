@@ -4,14 +4,6 @@ The circuit board features a ESP8266 microcontroller and supports the direct att
 
 ![Picture of the LED circuit board](./assets/img/led-circuit-board.jpg)
 
-## Details
-
-- Button 1: GPIO0
-- Button 2: GPIO5
-- IR: GPIO4
-- PIR: (GPIO4, requires that the IR is physically removed)
-- LED: GPIO2
-
 ## Where can I get one
 
 The circuit board is sold at [https://www.bastelgarage.ch/bausatze/esp8266-wled-platine-d75](https://www.bastelgarage.ch/bausatze/esp8266-wled-platine-d75)
@@ -22,6 +14,20 @@ Accessories:
 - [Power adapter 5 V/2 A](https://www.bastelgarage.ch/5v-dc-2000ma-stecknetzteil-ac-dc-adapter-5-5mm-2-1mm-stecker) (required)
 - [Mini USB UART FTDI Programmer 3.3/5V USB Serial](https://www.bastelgarage.ch/mini-usb-uart-ftdi-programmer-3-3-5v-usb-serial) (no required but recommended)
 - [Neopixels Stick - 8x WS2812](https://www.bastelgarage.ch/neopixel-stick-8x-ws2812-rgb-led) (not required but useful for testing)
+
+## Details
+
+- Button 1: GPIO0
+- Button 2: GPIO5
+- IR: GPIO4
+- PIR: (GPIO4, requires that the IR is physically removed)
+- LED: GPIO2
+
+## Remarks
+
+- The ESP8266 is using 3.3 V not 5 V. Keep that in mind when you want to program it.
+- The ESP8266 doesn't support 5 GHz WiFi networks.
+- The circuit board doesn't have fuses.
 
 ## Support
 
