@@ -8,7 +8,7 @@ The circuit board features a ESP8266 microcontroller and supports the direct att
 
 - Button 1: GPIO0
 - IR: GPIO4
-- PIR: (GPIO4, setzt das Entfernen des PIR voraus)
+- PIR: (GPIO4, requires that the IR is physically removed)
 - LED: GPIO2
 
 
