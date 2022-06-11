@@ -1,0 +1,9 @@
+# WLED
+
+[WLED](https://kno.wled.ge/) is a fast and feature-rich implementation of an ESP8266/ESP32 webserver to control NeoPixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets like the WS2801 and APA102. 
+
+This firmware is pre-loaded on the ESP8266.
+
+If you have to reflash your board then visit the "[WLED web installer](https://install.wled.me/)" page and follow the instructions.
+
+Further information can be fount at "[Install WLED Binary](https://kno.wled.ge/basics/install-binary/)" if you are unable to flash the firmaware with your browser.
