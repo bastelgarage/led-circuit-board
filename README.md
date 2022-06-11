@@ -4,9 +4,9 @@ The circuit board features a ESP8266 microcontroller and supports the direct att
 
 Support is available for:
 
-- WLED (factory default)
-- ESPhome
-- Micropython
+- [WLED](https://bastelgarage.github.io/led-circuit-board/wled) (factory default)
+- [ESPhome](https://bastelgarage.github.io/led-circuit-board/esphome)
+- [MicroPython](https://bastelgarage.github.io/led-circuit-board/micropython)
 - Arduino
 
 ## Where to buy?
@@ -30,9 +30,9 @@ Die Steuerplatine ist um einen ESP8266-Mikrocontroller aufgebaut und ist ausgele
 
 Untersützt wird:
 
-- WLED (Auslieferungzustand)
-- ESPhome
-- Micropython
+- [WLED](https://bastelgarage.github.io/led-circuit-board/wled) (Auslieferungzustand)
+- [ESPhome](https://bastelgarage.github.io/led-circuit-board/esphome)
+- [MicroPython](https://bastelgarage.github.io/led-circuit-board/micropython)
 - Arduino
 
 ## Wo kaufen?
