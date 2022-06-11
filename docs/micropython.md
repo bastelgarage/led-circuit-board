@@ -1,4 +1,4 @@
-## MicroPython
+# MicroPython
 
 The first step is to download the MicroPython port for the ESP8266: https://micropython.org/download/?port=esp8266
 
