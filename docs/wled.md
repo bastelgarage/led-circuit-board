@@ -16,7 +16,7 @@ Use a WiFi device to connect to the access point `WLED-AP` using the default pas
 
 Go to the IP address "4.3.2.1" in your browser. You should also be able to use `wled.me` as long as you are in "access point mode".
 
-![Start page WLED web interface](./assets/img/1.png)
+![Start page WLED web interface](./assets/img/wled1.png)
 
 Click on "WIFI SETTINGS" to edit the settings. Enter your details for your local WiFi network.
 
